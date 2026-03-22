@@ -14,7 +14,7 @@ pipeline {
         // 'Maven 3.9.5' → Jenkins mein configure kiya hua Maven
         maven 'Maven 3.9.5'
         // 'Java 17' → Jenkins mein configure kiya hua JDK
-        jdk 'Java 17'
+        jdk 'Java 21'
     }
 
     // environment → environment variables set karo
